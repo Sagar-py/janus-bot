@@ -1,3 +1,3 @@
-JOB_TITLE = "Software Engineer"
-LOCATION = "India"
+JOB_TITLE = "Machine Learning Engineer"
+LOCATION = "Greater Bengaluru Area"
 RESUME_PATH = "resumes/SagarPatel-Resume.pdf"
